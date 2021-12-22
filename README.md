@@ -1,16 +1,28 @@
 ![](https://komarev.com/ghpvc/?username=masero01)
-## Разработчик, стример и просто Милашка :З
+## Обо мне:
+> **Личная жизнь:** 16 лет, живу в России, миленький и хороший мальчик стример, не пью и не курю
+<br/>
+<br/>
+**Остальное:**
+<br/>
+Имею немаленького, многофункционального бота в Discord - [**Shizue**](https://sqdsh.top/shizue)
+<br/>
+Являюсь модератором мониторинга ботов/серверов [**BotiCord**](https://boticord.top/?ref=shizue) и посовместно его [партнёром](https://boticord.top/partners)
+<br/>
+Основной язык программировния который я использую - JS
+<br/>
+
+
 
 ## Языки и инструменты:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 
-
-<br />
-<br />
+<br/>
+<br/>
 
  ## Места где я обитаю:
 [![Discord](https://img.shields.io/badge/-Discord-3C2886?style=for-the-badge&logo=Discord&logoColor=1195F5)](https://discord.com/ptYPqYh)
