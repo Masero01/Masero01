@@ -33,7 +33,7 @@
 [![QIWI](https://img.shields.io/badge/-Qiwi-3C2886?style=for-the-badge&logo=qiwi)](https://qiwi.com/n/MASERO)
 [![DONATIONALERTS](https://img.shields.io/badge/-DonationAlerts-3C2886?style=for-the-badge&logo=ReverbNation&logoColor=BF93FF)](https://www.donationalerts.com/r/maserodoante)
 [![Instagram](https://img.shields.io/badge/-Instagram-3C2886?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/masero01)
-[![VKontakte](https://img.shields.io/badge/-Vkontakte-3C2886?style=for-the-badge&logo=Vk&logoColor=149FDC)](https://vk.com/masero_kun)
+[![VKontakte](https://img.shields.io/badge/-Vkontakte-3C2886?style=for-the-badge&logo=Vk&logoColor=149FDC)](https://vk.com/maserokun)
 
 
 
