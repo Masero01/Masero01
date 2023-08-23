@@ -7,9 +7,10 @@
 <br/>
 
 **Остальное:**
+<br/>
 Имею немаленького, многофункционального бота в Discord - [**Shizue**](https://shizue.top)
 <br/>
-
+Являюсь разработчиком проекта - [Shuoki.top](https://shuoki.top)
 
 ## Языки и инструменты:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -23,8 +24,8 @@
 
  ## Места где я обитаю и другое:
 [![Twitch](https://img.shields.io/badge/-Twitch-3C2886?style=for-the-badge&logo=Twitch&logoColor=974FFF)](https://twitch.tv/masero01)
-[![Discord](https://img.shields.io/badge/-Discord-3C2886?style=for-the-badge&logo=Discord&logoColor=1195F5)](https://discord.com/yPCmCD2qfW)
 [![Telegram](https://img.shields.io/badge/-Telegram-3C2886?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/maserokun)
+[![Discord](https://img.shields.io/badge/-Discord-3C2886?style=for-the-badge&logo=Discord&logoColor=1195F5)](https://discord.com/yPCmCD2qfW)
 [![QIWI](https://img.shields.io/badge/-Qiwi-3C2886?style=for-the-badge&logo=qiwi)](https://qiwi.com/n/MASERO)
 [![DONATIONALERTS](https://img.shields.io/badge/-DonationAlerts-3C2886?style=for-the-badge&logo=ReverbNation&logoColor=BF93FF)](https://www.donationalerts.com/r/maserodoante)
 [![Instagram](https://img.shields.io/badge/-Instagram-3C2886?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/masero01)
