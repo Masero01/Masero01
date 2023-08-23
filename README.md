@@ -8,7 +8,7 @@
 
 **Остальное:**
 <br/>
-Имею немаленького, многофункционального бота в Discord — [**Shizue**](https://shizue.top)
+Владелец популярного многофункционального бота в Discord — [**Shizue**](https://shizue.top)
 <br/>
 Являюсь разработчиком проекта — [Shuoki.top](https://shuoki.top)
 
