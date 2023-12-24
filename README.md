@@ -1,6 +1,6 @@
 ## Обо мне:
 **Личная жизнь:**
-17 лет, Россия
+18 лет, Россия
 <br/>
  Миленький и хороший мальчик, стример, всегда рад в общении или с кем то поиграть :З
 <br/>
@@ -10,6 +10,9 @@
 Владелец популярного многофункционального бота в Discord — [**Shizue**](https://shizue.top)
 <br/>
 Являюсь разработчиком проекта — [Shuoki.top](https://shuoki.top)
+<br/>
+По мимо этого, разрабатываю приватных Discord ботов и сайты на заказ (лс в дискорде maserokun)
+
 
 ## Языки и инструменты:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
